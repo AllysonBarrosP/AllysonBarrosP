@@ -1,6 +1,6 @@
 ### Allyson Barros 👋
 
-Desenvolvedor FullStack. 
+Engenheiro de Dados Jr
 
 - :man_technologist: Atualmente trabalhando como Técnico de Sistemas no Hospital São Camilo - Fortaleza 
 - :man_student: Graduando em Análise e Desenvolvimento de Sistemas no UNIATENEU
